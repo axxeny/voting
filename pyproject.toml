@@ -1,10 +1,10 @@
 [project]
 name = "axvoting"
 version = "0.1.0"
-description = "Add your description here"
+description = "Quickly simulate elections with certain methods of interest."
 readme = "README.md"
 authors = [
-    { name = "Arseniy Poroshin", email = "login@axxeny.com" }
+    { name = "Arseniy Poroshin", email = "git@axxeny.com" }
 ]
 requires-python = ">=3.13"
 dependencies = [
